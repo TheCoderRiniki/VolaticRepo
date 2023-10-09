@@ -1,0 +1,30 @@
+<package>
+	<id>com.ryannair05.gesturesxs</id>
+	<name>GesturesXS</name>
+	<version>2.3.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+                <package>preferenceloader</package>
+                <package>com.haoict.libhdev</package>
+                <package>firmware</package>
+	</dependencies>
+	<shortDescription>Adds some weather features to normal weather.</shortDescription>
+	<descriptionlist>
+		<description></description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+		<screenshot>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
+			<image>cydia.jpg</image>
+		</screenshot>		
+	</screenshots>
+</package>
