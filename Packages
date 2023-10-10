@@ -8,7 +8,7 @@ Maintainer: Ryan Nair
 Author: Ryan Nair
 Section: Tweaks
 Filename: ./debs/com.ryannair05.gesturesxs.deb
-Deciption: https://thecoderriniki.github.io/Reposi3/depictions/?p=com.ryannair05.gesturesxs
+Deciption: https://thecoderriniki.github.io/VolaticRepo/depictions/?p=com.ryannair05.gesturesxs
 Size: 7684
 MD5sum: b3f3b8702f603c8f041f625245ab6911
 
@@ -36,6 +36,33 @@ Maintainer: Hao Nguyen
 Author: Hao Nguyen
 Section: Tweaks
 Filename: ./debs/com.haoict.weatherplus.deb
-Deciption: https://thecoderriniki.github.io/Reposi3/depictions/?p=com.haoict.weatherplus
+Deciption: https://thecoderriniki.github.io/VolaticRepo/depictions/?p=com.haoict.weatherplus
 Size: 205022
 MD5sum: d78fe26fdf37339d445b27ae4b3139ce
+
+
+Package: com.haoict.iconcert
+Name: IconCert 14
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.8.0), firmware (>= 13)
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Show remaining certificate time on app icon
+ Show remaining certificate time on app icon
+ Change log: https://github.com/haoict/iconcert/releases
+ . 
+ Features:
+ - Show remaining certificate time on app icon
+ - Custom styles (opacity, animation, time format)
+ - Support iOS 13 - 14
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict
+ . 
+ Thanks a ton
+Maintainer: Hao Nguyen
+Author: Hao Nguyen
+Section: Tweaks
+Filename: ./debs/com.haoict.iconcert.deb
+Deciption: https://thecoderriniki.github.io/VolaticRepo/depictions/?p=com.haoict.iconcert
+Size: 19120
+MD5sum: d01415801d8e03cd9adae6593999b91c
